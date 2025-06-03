@@ -1,0 +1,14 @@
+C:\Users\Buse\Desktop\sunum\sunum\bin\Debug\net8.0\sunum.exe
+C:\Users\Buse\Desktop\sunum\sunum\bin\Debug\net8.0\sunum.deps.json
+C:\Users\Buse\Desktop\sunum\sunum\bin\Debug\net8.0\sunum.runtimeconfig.json
+C:\Users\Buse\Desktop\sunum\sunum\bin\Debug\net8.0\sunum.dll
+C:\Users\Buse\Desktop\sunum\sunum\bin\Debug\net8.0\sunum.pdb
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.AssemblyInfoInputs.cache
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.AssemblyInfo.cs
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.csproj.CoreCompileInputs.cache
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.dll
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\refint\sunum.dll
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.pdb
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\sunum.genruntimeconfig.cache
+C:\Users\Buse\Desktop\sunum\sunum\obj\Debug\net8.0\ref\sunum.dll
